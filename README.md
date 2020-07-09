@@ -1,8 +1,8 @@
 # E-commerce-cart-source
 my personal code showing case my skills.
 This is the source code for an ecommerce cart, this code will get your cart to do the following.
-ADD CART
-DELETE CART
+ADD TO CART
+DELETE FROM CART
 FETCH CART
 CART TOTAL
 CART UPDATE
